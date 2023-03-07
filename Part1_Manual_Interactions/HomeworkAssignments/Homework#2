@@ -1,0 +1,4 @@
+Python Smart Contract Homework Assignment: 
+- Deploy the ColdStorageVault.sol code on your local ganache blockchain using remix, find the attack path.. 
+- Think about each thing wrong with this contract that makes it possible.. 
+- Write the python code to execute your attack path...  
