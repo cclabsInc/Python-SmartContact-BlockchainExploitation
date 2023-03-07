@@ -1,0 +1,13 @@
+HomeWork Uniswap V2 URL: 
+https://etherscan.io/address/0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f#code
+
+Python Smart Contract Homework Assignment: 
+Use the above contract, list out  the number of pairs and the first 5 pairs found by understanding what's going on reviewing output and thinking it through...  It should look similar to the following: 
+
+Number of Pairs: 150323
+Pairs:
+Pair: USDC|WETH 
+Pair: USDP|USDC 
+Pair: CHAI|WETH 
+Pair: DAI|WETH 
+Pair: REN|USDC
